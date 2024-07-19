@@ -2,7 +2,6 @@
 I'm a Data Scientist with hands-on experience in building applications and models for businesses that can provide valuable insight and possibly help them make better decisions. One project can be found on my LinkedIn profile, related to the internship I had at Spirit Energy. 
 
 ## 🧑‍💻 About My Experience 
-I have a strong background in:
 
 - **Python Programming**: I took several courses at university in programming and have continuously used Python in my work ever since. It is a strong tool and I very much appreciate all the open source libraries!
   
