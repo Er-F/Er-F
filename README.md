@@ -1,4 +1,4 @@
-# Hi!👋
+##  Hi, I'm Erik!👋
 Welcome to my GitHub profile! 
 I'm a passionate Python programmer with experience in Machine Learning and Data Analysis. 
 
@@ -13,7 +13,7 @@ I have a strong background in:
 Have a look at some of my personal analytical projects! 
 
 - Machine Learning Project: A project where I developed a machine learning model to predict housing prices.
-- Python Utilities: A collection of useful Python scripts and utilities.
+- Project 02: [Analyzing LinkedIn Job Listings - Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
 - Data Analysis Project: An analysis of a large dataset to uncover trends and patterns.
 
 ## 🚀 Other Projects
