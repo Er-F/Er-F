@@ -20,7 +20,7 @@ I have a strong background in:
 
 ## 📂 Repositories
 
-- Project 01: [Personal GenAI Dashboard]([https://github.com/Er-F/02_Project_Analysis](https://github.com/Er-F/01_Project_GenAI)
+- Project 01: [Steamlit Dashboard - Database Storage and Visulization](https://github.com/Er-F/01_Project_GenAI)
 - Project 02: [Analyzing LinkedIn Job Listings - Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
 - Project 03: ... 
 
