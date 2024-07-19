@@ -15,12 +15,10 @@ I have a strong background in:
 - **Data Engineering**: I have broad experience with Data Engineering from work, where I have worked with datawarehousing and related technologies such as SAS, DBT, Netezza etc. 
 
 ## 📂 Repositories
-Have a look at some of my personal Data Science projects below! 
 
-- Project 01: 
+- Project 01: [Personal GenAI Dashboard]([https://github.com/Er-F/02_Project_Analysis](https://github.com/Er-F/01_Project_GenAI)
 - Project 02: [Analyzing LinkedIn Job Listings - Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
-- Project 03: 
-
+- Project 03: ... 
 
 <!--- (Un Comment When You have projects to showcase 
 <> ## 🚀 Other Projects
