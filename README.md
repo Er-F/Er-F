@@ -16,6 +16,6 @@ Have a look at some of my personal analytical projects!
 - Project 02: [Analyzing LinkedIn Job Listings - Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
 - Data Analysis Project: An analysis of a large dataset to uncover trends and patterns.
 
-<>## 🚀 Other Projects
-<>In addition to my GitHub repositories, I've worked on several other projects:
+<> ## 🚀 Other Projects
+<> In addition to my GitHub repositories, I've worked on several other projects:
 
