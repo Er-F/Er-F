@@ -1,5 +1,5 @@
 ## I'm Erik, welcome to my GitHub profile! 
-I'm a Python programmer with experience in building applications and models that provide insight from a buisness perspecitve.
+I'm a Data Scientist with hands-on experience in building applications and models for buisnesses that can provide valuable insight and possibly help them make better decisions. I have written about one project on my LinkedIn profile, related to the internship I had at Spirit Energy. 
 
 ## 🧑‍💻 About My Experience 
 I have a strong background in:
