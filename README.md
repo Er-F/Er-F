@@ -31,8 +31,7 @@ Data Scientist with hands-on experience in building applications and models for 
 - **Machine Learning**: I have experience from building and testing several machine learning models for real world applications and very much enjoy investigating how different model types perform on different problems. Explainability of model results is also a topic that will be important for Data Scientist to know of going forward.
 important libraries: Sklearn, XGBoost,    
   
-- **Data Processing & Preparation**: Data processing is an extremely important task for any Data Scientist, and it is important to do this well before using data in any models. From my experience I have found it to be time-saving to do high quality work when preparing the dataset. A clean and trustworthy dataset is always worth the time!
-- Important libraries: Missingno, Pandas, 
+- **Data Processing & Preparation**: Data processing is an extremely important task for any Data Scientist, and it is important to do this well before using data in any models. From my experience I have found it to be time-saving to do high quality work when preparing the dataset. A clean and trustworthy dataset is always worth the time! **Important libraries**: Missingno, Pandas, SciPy, 
 
 - **Data Engineering**: I have broad experience with Data Engineering, and I have helped several companies with problem solving related to their data warehouse and have hands-on experience with the related technologies: SQL, SAS, DBT, Netezza, Databricks, Azure. 
   
