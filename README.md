@@ -37,10 +37,10 @@ important libraries: Sklearn, XGBoost,
 - **Data Engineering**: I have broad experience with Data Engineering, and I have helped several companies with problem solving related to their data warehouse and have hands-on experience with the related technologies: SQL, SAS, DBT, Netezza, Databricks, Azure. 
   
 ## 📂 Repositories
-
-- Project 01: [Steamlit Dashboard - Database Storage and Visulization](https://github.com/Er-F/01_Project_GenAI)
-- Project 02: [Analyzing LinkedIn Job Listings - Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
-- Project 03: ... 
+- Project 00: [Comparing Performance Of Machine Learning Models](https://github.com/Er-F/00_Machine-Learning_Model-Comparison) 
+- Project 01: [Building A Machine Learning Model From Scratch](https://github.com/Er-F/01_Building-Machine-Learning-Model-From-Scratch)
+- Project 02: [Steamlit Dashboard - Database Storage and Visulization](https://github.com/Er-F/01_Project_GenAI)
+- Project 03: [Analyzing LinkedIn Job Listings - Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
 
 <!--- (Un Comment When You have projects to showcase 
 <> ## 🚀 Other Projects
