@@ -1,5 +1,5 @@
 ## Welcome to my GitHub profile! 
-I'm a Data Scientist with hands-on experience in building applications and models for businesses that can provide valuable insight. One project can be found on my LinkedIn profile, related to the internship I had early in my career. 
+I'm a Data Scientist with hands-on experience in building applications and models for businesses that can provide valuable insight. Have a look at the projects in my repositories!
 
 ## Skillset
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
