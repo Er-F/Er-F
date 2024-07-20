@@ -1,5 +1,5 @@
 ## Welcome to my GitHub profile! 
-I'm a Data Scientist with hands-on experience in building applications and models for businesses that can provide valuable insight and possibly help them make better decisions. One project can be found on my LinkedIn profile, related to the internship I had at Spirit Energy. 
+I'm a Data Scientist with hands-on experience in building applications and models for businesses that can provide valuable insight. One project can be found on my LinkedIn profile, related to the internship I had early in my career. 
 
 ## Skillset
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,9 +22,8 @@ I'm a Data Scientist with hands-on experience in building applications and model
 
 ## 🧑‍💻 About My Experience 
 
-- **Python Programming**: I took several courses at university in programming and have continuously used Python in my work ever since. It is a strong tool and I very much appreciate all the open source libraries!
-  
-- **Dashboard and Business Intelligence**: Steamlit is a powerful python library that allows you to quickly create sophisticated dashboards. I have used it in several projects to create user-friendly applications. 
+
+- **Dashboard and Business Intelligence**: Streamlit is a powerful python library that allows you to quickly create sophisticated dashboards. I have experience using Streamlit in several of my projects to create user-friendly applications. 
   
 - **GenAI**: I have done several personal projects where GenAI-APIs have been used. Have a look at one of my repos. 
   
