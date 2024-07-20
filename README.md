@@ -22,13 +22,17 @@ Data Scientist with hands-on experience in building applications and models for 
 
 ## My Main Fields Of Knowledge   
   
-- **Dashboards, Visulizations & Business Intelligence**: Visulizing results is a very important skillset for any Data Scientist, and I have found Streamlit to be a powerful python library that allows you to quickly create sophisticated dashboards. Of course presenting results in Streamlit requires that the programmer knows how to use standard python libraries such as MatplotLib, Plotly or Seaborn that can be used to present data in the streamlit dashboard.
+- **Dashboards, Visulizations & Business Intelligence**: Visulizing results is a very important skillset for any Data Scientist, and I have found Streamlit to be a powerful python library that allows you to quickly create sophisticated dashboards. Presenting results in Streamlit requires that the programmer knows how to use python libraries such as MatplotLib, Plotly or Seaborn to create figures for data visulization.
+Important libraries: Streamlit, Matplotlib, Plotly, Seaborn
   
-- **GenAI & Text Manipulation**: I have done several personal projects where I have used OpenAI-API and variations of the llama models, and have done sentiment and topic analysis on text fields. 
+- **GenAI & Text Manipulation**: I have done several personal projects where I have used OpenAI-API and variations of the llama models, and have done sentiment and topic analysis on text fields. SQL-Agents and other methods where GenAI can help analyze data in organizations, will definetnly be important for many years ahead.
+Important libraries: 
   
-- **Machine Learning**: I have experience from building and testing several machine learning models for real world applications and very much enjoy investigating how different model types perform on different problems. Explainability of model results is also a topic that will be important for Data Scientist to know of going forward.   
+- **Machine Learning**: I have experience from building and testing several machine learning models for real world applications and very much enjoy investigating how different model types perform on different problems. Explainability of model results is also a topic that will be important for Data Scientist to know of going forward.
+important libraries: Sklearn, XGBoost,    
   
 - **Data Processing & Preparation**: Data processing is an extremely important task for any Data Scientist, and it is important to do this well before using data in any models. From my experience I have found it to be time-saving to do high quality work when preparing the dataset. A clean and trustworthy dataset is always worth the time!
+- Important libraries: Missingno, Pandas, 
 
 - **Data Engineering**: I have broad experience with Data Engineering, and I have helped several companies with problem solving related to their data warehouse and have hands-on experience with the related technologies: SQL, SAS, DBT, Netezza, Databricks, Azure. 
   
