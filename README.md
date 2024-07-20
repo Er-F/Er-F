@@ -1,6 +1,12 @@
 ## Welcome to my GitHub profile! 
 Data Scientist with hands-on experience in building applications and models for businesses that can provide valuable insight. Have a look at the projects in my repositories!
 
+## 📂 Repositories
+- Project 00: [Comparing Performance Of Machine Learning Models](https://github.com/Er-F/00_Machine-Learning_Model-Comparison) 
+- Project 01: [Building A Machine Learning Model From Scratch](https://github.com/Er-F/01_Building-Machine-Learning-Model-From-Scratch)
+- Project 02: [Steamlit Dashboard - Database Storage and Visulization](https://github.com/Er-F/01_Project_GenAI)
+- Project 03: [Analyzing LinkedIn Job Listings - Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
+
 ## Technical Skillset 🧑‍💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -35,12 +41,6 @@ important libraries: Sklearn, XGBoost,
 
 - **Data Engineering**: I have broad experience with Data Engineering, and I have helped several companies with problem solving related to their data warehouse and have hands-on experience with the related technologies: SQL, SAS, DBT, Netezza, Databricks, Azure. 
   
-## 📂 Repositories
-- Project 00: [Comparing Performance Of Machine Learning Models](https://github.com/Er-F/00_Machine-Learning_Model-Comparison) 
-- Project 01: [Building A Machine Learning Model From Scratch](https://github.com/Er-F/01_Building-Machine-Learning-Model-From-Scratch)
-- Project 02: [Steamlit Dashboard - Database Storage and Visulization](https://github.com/Er-F/01_Project_GenAI)
-- Project 03: [Analyzing LinkedIn Job Listings - Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
-
 <!--- (Un Comment When You have projects to showcase 
 <> ## 🚀 Other Projects
 <> In addition to my GitHub repositories, I've worked on several other projects:
