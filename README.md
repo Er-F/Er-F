@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile! 
 I'm a Data Scientist with hands-on experience in building applications and models for businesses that can provide valuable insight. Have a look at the projects in my repositories!
 
-## Skillset
+## Technical Skillset 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
