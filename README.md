@@ -23,10 +23,10 @@ Data Scientist with hands-on experience in building applications and models for 
 ## My Main Fields Of Knowledge   
   
 - **Dashboards, Visulizations & Business Intelligence**: Visulizing results is a very important skillset for any Data Scientist, and I have found Streamlit to be a powerful python library that allows you to quickly create sophisticated dashboards. Presenting results in Streamlit requires that the programmer knows how to use python libraries such as MatplotLib, Plotly or Seaborn to create figures for data visulization.
-Important libraries: Streamlit, Matplotlib, Plotly, Seaborn
+**Important libraries**: Streamlit, Matplotlib, Plotly, Seaborn
   
-- **GenAI & Text Manipulation**: I have done several personal projects where I have used OpenAI-API and variations of the llama models, and have done sentiment and topic analysis on text fields. SQL-Agents and other methods where GenAI can help analyze data in organizations, will definetnly be important for many years ahead.
-Important libraries: 
+- **GenAI & Text Manipulation**: I’ve worked on several personal projects using OpenAI API and variations of the LLaMA models for exmaple sentiment and topic analysis on text fields. SQL-Agents and other GenAI methods will undoubtedly play a significant role in data analysis for organizations in the future.
+**Important libraries**: Transformers, Nltk, pyLDAvis, WordCloud 
   
 - **Machine Learning**: I have experience from building and testing several machine learning models for real world applications and very much enjoy investigating how different model types perform on different problems. Explainability of model results is also a topic that will be important for Data Scientist to know of going forward.
 important libraries: Sklearn, XGBoost,    
