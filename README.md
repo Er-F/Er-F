@@ -1,4 +1,4 @@
-## I'm Erik, welcome to my GitHub profile! 
+## Welcome to my GitHub profile! 
 I'm a Data Scientist with hands-on experience in building applications and models for businesses that can provide valuable insight and possibly help them make better decisions. One project can be found on my LinkedIn profile, related to the internship I had at Spirit Energy. 
 
 ## Skillset
