@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile! 
+3## Welcome to my GitHub profile! 
 Hobby programmer and Data Scientist with hands-on experience in building intelligent applications for businesses that can provide valuable insight. Take a look at some of my projects in my repositories!
 
 ## Repositories 📂
