@@ -1,13 +1,13 @@
 ## Welcome to my GitHub profile! 
-Data Scientist with hands-on experience in building applications and models for businesses that can provide valuable insight. Have a look at the projects in my repositories!
+Hobby programmer and Data Scientist with hands-on experience in building intelligent applications for businesses that can provide valuable insight. Take a look at some of my projects in my repositories!
 
-## 📂 Repositories
+## Repositories 📂
 - Project 00: [Comparing Performance Of Machine Learning Models](https://github.com/Er-F/00_Machine-Learning_Model-Comparison) 
 - Project 01: [Building A Machine Learning Model From Scratch](https://github.com/Er-F/01_Building-Machine-Learning-Model-From-Scratch)
 - Project 02: [Steamlit Dashboard - Database Storage and Visulization](https://github.com/Er-F/01_Project_GenAI)
 - Project 03: [Analyzing LinkedIn Job Listings - Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
 
-## Technical Skillset 🧑‍💻
+## Technical skillset 🧑‍💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,10 +26,11 @@ Data Scientist with hands-on experience in building applications and models for 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white")
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 
-## My Main Fields Of Knowledge   
+## My main fields of knowledge   
   
-- **Dashboards, Visulizations & Business Intelligence**: Visulizing results is a very important skillset for any Data Scientist, and I have found Streamlit to be a powerful python library that allows you to quickly create sophisticated dashboards. Presenting results in Streamlit requires that the programmer knows how to use python libraries such as MatplotLib, Plotly or Seaborn to create figures for data visulization.
-**Important libraries**: Streamlit, Matplotlib, Plotly, Seaborn
+- **Dashboards, Visulizations & Business Intelligence**: Visulizing results is a very important skillset for any Data Scientist, otherwise any strong result can prove to be meaningless if the audience/client misses the main finding. Here are topics I have experience with in relation to visulizing findings: 
+-   Streamlit to be a powerful python library that allows you to quickly create sophisticated dashboards. Presenting results in Streamlit requires that the programmer knows how to use python libraries such as MatplotLib, Plotly or Seaborn to create figures for data visulization.
+
   
 - **GenAI & Text Manipulation**: I’ve worked on several personal projects using OpenAI API and variations of the LLaMA models for exmaple sentiment and topic analysis on text fields. SQL-Agents and other GenAI methods will undoubtedly play a significant role in data analysis for organizations in the future.
 **Important libraries**: Transformers, Nltk, pyLDAvis, WordCloud 
