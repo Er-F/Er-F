@@ -44,11 +44,12 @@ Hobby programmer and Data Scientist with hands-on experience in building intelli
 - **Hyperparameter Tuning**: Fine-tuned model parameters to find optimal solution to specific problems.
 - **Programmed model from Scratch**: As a master student I built a model from scratch as part of a ML-course. Take a look at the related repository!
   
-**Data Processing & Preparation**: This is an exstremely important task for Data Scientists, as the first priority is always to ensure to have the best possible data quality before starting to use it in models or analytical tasks. Personally I use the python libraries Pandas, Missingno and SciPy (to calculate statistical values, e.g. to remove outlier values) when cleaning data. 
+**Data Processing & Preparation**: This is an exstremely important task for Data Scientists, as the first priority is always to ensure to have the best possible data quality before starting to use it in models or analytical tasks. Personally I use the python libraries Pandas, Missingno and SciPy (to calculate statistical values, e.g. to remove outliers) to effectivly clean data before performing Exploratory Data Analysis (ETA) etc. 
 - Take a look at the cleaning done in the repo: [Project 03](https://github.com/Er-F/02_Project_Analysis)
 
 
-**Data Engineering**: I have broad experience with Data Engineering, and I have helped several companies with problem solving related to their data warehouse and have hands-on experience with the related technologies: SQL, SAS, DBT, Netezza, Databricks, Azure. 
+**Data Engineering**: I have broad experience with Data Engineering, and I have assisted several companies on improving their data warehouse: 
+- 
   
 <!--- (Un Comment When You have projects to showcase 
 <> ## 🚀 Other Projects
