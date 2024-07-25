@@ -47,11 +47,7 @@ Hobby programmer and Data Scientist with hands-on experience in building intelli
 **Data Processing & Preparation**: This is an exstremely important task for Data Scientists, as the first priority is always to ensure to have the best possible data quality before starting to use it in models or analytical tasks. Personally I use the python libraries Pandas, Missingno and SciPy (to calculate statistical values, e.g. to remove outliers) to effectivly clean data before performing Exploratory Data Analysis (ETA) etc. 
 - Take a look at the cleaning done in the repo: [Project 03](https://github.com/Er-F/02_Project_Analysis)
 
-**Data Engineering**: I have broad experience with Data Engineering, and I have assisted several companies on improving their data warehouse. This is some of the technology I have used: 
-- DBT & SQL: 
-- Databricks:
-- Azure:  
-- SAS DI/EG: 
+**Data Engineering**: I have broad experience with Data Engineering, and I have assisted several companies on improving their data warehouse. This is some of the technology I have used: DBT & SQL, Databricks, Azure. SAS DI/EG. Specific DBT examples will be uploaded in the future!
   
 <!--- (Un Comment When You have projects to showcase 
 <> ## 🚀 Other Projects
