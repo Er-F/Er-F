@@ -28,12 +28,17 @@ Hobby programmer and Data Scientist with hands-on experience in building intelli
 
 ## My main fields of knowledge   
   
-**Dashboards, Visulizations & Business Intelligence**: Visulizing results is a very important skillset for any Data Scientist, otherwise any strong result can prove to be meaningless if the audience/client misses the main finding. Here are topics I have experience with in relation to visulizing findings: 
-- Built several Streamlit dashboards with Python
-- Built several Power BI dashboards and datamodels
-- Created sophisticated visulizations using the libraries Plotly, Seaborn and MatplotLib 
+**Dashboards, Visulizations & Business Intelligence**: Visulizing results is a very important skillset for any Data Scientist, otherwise any strong result can prove to be meaningless if the audience/client misses the main finding. Here are some of the good techniques I have experience with: 
+- Streamlit (Python): Built dashboards for interacting with GenAI models 
+- Power BI: Built several dashboards and datamodels to present buisness analytics 
+- Python Visulizations: Created sophisticated visulizations using the known libraries Plotly, Seaborn and MatplotLib 
 
-**GenAI & Text Manipulation**: I’ve worked on several personal projects using OpenAI API and variations of the LLaMA models for exmaple sentiment and topic analysis on text fields. SQL-Agents and other GenAI methods will undoubtedly play a significant role in data analysis for organizations in the future.
+**GenAI & Text Manipulation**: GenAI is gaining significant traction in all companies, therefore it is important that all data scientists (including me) get hands-on experience with this field and all tools that are related. Here are some of the topics I have worked on to increase my experience in the field: 
+- Sentiment Analysis: Used LLAMA models to perform sentiment analysis to investigate correlation between positive/negative sentiment on other variables (e.g. on LinkedIN job descriptions)
+- Topic Modeling: Using techniques like Latent Dirichlet Allocation (LDA), I’ve (among other things) investigated the main topics of LinkedIn job listings
+- SQL-Agents: Integrating GenAI with SQL databases, I’ve automated data retrieval and transformations. SQL-Agents allow dynamic querying and seamless data manipulation.
+
+I’ve worked on several personal projects using OpenAI API and variations of the LLaMA models for exmaple sentiment and topic analysis on text fields. SQL-Agents and other GenAI methods will undoubtedly play a significant role in data analysis for organizations in the future.
 **Important libraries**: Transformers, Nltk, pyLDAvis, WordCloud 
   
 **Machine Learning**: I have experience from building and testing several machine learning models for real world applications and very much enjoy investigating how different model types perform on different problems. Explainability of model results is also a topic that will be important for Data Scientist to know of going forward.
