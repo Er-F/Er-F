@@ -37,14 +37,16 @@ Hobby programmer and Data Scientist with hands-on experience in building intelli
 - **Sentiment Analysis**: Used LLAMA models to perform sentiment analysis to investigate correlation between positive/negative sentiment on other variables (e.g. on LinkedIN job descriptions)
 - **Topic Modeling**: Using techniques like Latent Dirichlet Allocation (LDA), I’ve (among other things) investigated the main topics of LinkedIn job listings
 - **SQL-Agents**: Created an SQL-agent based on OpenAI API that interacted with an SQL database, and solved several difficult problems based on simple prompts from user input 
+  
+**Machine Learning**: I have experience from building and testing several machine learning models for real world applications. Here is a summary of what I have done: 
+- **Model Building**: Built and testing several different types of ML models for real-world applications.
+- **Explainability**: Investigated feature importance from trained models to ensure transparent results.
+- **Hyperparameter Tuning**: Fine-tuned model parameters to find optimal solution to specific problems.
+- **Programmed model from Scratch**: As a master student I built a model from scratch as part of a ML-course. Take a look at the related repository!
+  
+**Data Processing & Preparation**: This is an exstremely important task for Data Scientists, as the first priority is always to ensure to have the best possible data quality before starting to use it in models or analytical tasks. Personally I use the python libraries Pandas, Missingno and SciPy (to calculate statistical values, e.g. to remove outlier values) when cleaning data. 
+- Take a look at the cleaning done in the repo: [Project 03](https://github.com/Er-F/02_Project_Analysis)
 
-I’ve worked on several personal projects using OpenAI API and variations of the LLaMA models for exmaple sentiment and topic analysis on text fields. SQL-Agents and other GenAI methods will undoubtedly play a significant role in data analysis for organizations in the future.
-**Important libraries**: Transformers, Nltk, pyLDAvis, WordCloud 
-  
-**Machine Learning**: I have experience from building and testing several machine learning models for real world applications and very much enjoy investigating how different model types perform on different problems. Explainability of model results is also a topic that will be important for Data Scientist to know of going forward.
-important libraries: Sklearn, XGBoost,    
-  
-**Data Processing & Preparation**: Data processing is an extremely important task for any Data Scientist, and it is important to do this well before using data in any models. From my experience I have found it to be time-saving to do high quality work when preparing the dataset. A clean and trustworthy dataset is always worth the time! **Important libraries**: Missingno, Pandas, SciPy, 
 
 **Data Engineering**: I have broad experience with Data Engineering, and I have helped several companies with problem solving related to their data warehouse and have hands-on experience with the related technologies: SQL, SAS, DBT, Netezza, Databricks, Azure. 
   
