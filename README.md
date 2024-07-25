@@ -29,9 +29,9 @@ Hobby programmer and Data Scientist with hands-on experience in building intelli
 ## My main fields of knowledge   
   
 **Dashboards, Visulizations & Business Intelligence**: Visulizing results is a very important skillset for any Data Scientist, otherwise any strong result can prove to be meaningless if the audience/client misses the main finding. Here are topics I have experience with in relation to visulizing findings: 
-    - Built several Streamlit dashboards with Python
-    - Built several Power BI dashboards and datamodels
-    - Created sophisticated visulizations using the libraries Plotly, Seaborn and MatplotLib 
+- Built several Streamlit dashboards with Python
+- Built several Power BI dashboards and datamodels
+- Created sophisticated visulizations using the libraries Plotly, Seaborn and MatplotLib 
 
 **GenAI & Text Manipulation**: I’ve worked on several personal projects using OpenAI API and variations of the LLaMA models for exmaple sentiment and topic analysis on text fields. SQL-Agents and other GenAI methods will undoubtedly play a significant role in data analysis for organizations in the future.
 **Important libraries**: Transformers, Nltk, pyLDAvis, WordCloud 
