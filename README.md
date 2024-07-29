@@ -6,7 +6,7 @@ Hobby programmer and Data Scientist with hands-on experience in building intelli
 - Project 01: [Building A Machine Learning Model From Scratch](https://github.com/Er-F/01_Building-Machine-Learning-Model-From-Scratch)
 - Project 02: [Steamlit Dashboard - Database Storage and Visulization](https://github.com/Er-F/01_Project_GenAI)
 - Project 03: [Analyzing LinkedIn Job Listings - Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
-- Project 04  [Data Engineering: DBT - Medallion Arcitecture](https://github.com/Er-F/04_Project_DBT)
+- Project 04:  [Data Engineering: Building a Simple Data Warehouse using DBT & Medallion Arcitecture](https://github.com/Er-F/04_Project_DBT)
 
 ## Technical skillset 🧑‍💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
