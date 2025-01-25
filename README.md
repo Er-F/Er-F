@@ -1,5 +1,5 @@
 ## Welcome to my GitHub profile! 
-Hobby programmer and Data Scientist that enjoy math and programming projects. 
+Hobby programmer and Data Scientist that enjoy math and programming projects! 
 
 ## Repositories 📂
 - Project 00: [Comparing Performance Of Machine Learning Models](https://github.com/Er-F/00_Machine-Learning_Model-Comparison) 
