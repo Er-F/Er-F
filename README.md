@@ -1,14 +1,14 @@
 ## Welcome to my GitHub profile! 
 Hobby programmer and Data Scientist that enjoy math and programming projects! 
 
-## Repositories 📂
+## Repositories 
 - Project 00: [Comparing Performance Of Machine Learning Models](https://github.com/Er-F/00_Machine-Learning_Model-Comparison) 
 - Project 01: [Building A Machine Learning Model From Scratch](https://github.com/Er-F/01_Building-Machine-Learning-Model-From-Scratch)
 - Project 02: [Steamlit Dashboard - Database Storage and Visulization](https://github.com/Er-F/01_Project_GenAI)
 - Project 03: [Analyzing LinkedIn Job Listings - Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
 - Project 04:  [Data Engineering: Building a Simple Data Warehouse using DBT & Medallion Arcitecture](https://github.com/Er-F/04_Project_DBT)
 
-## Technical skillset 🧑‍💻
+## Technical skillset 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,7 +27,7 @@ Hobby programmer and Data Scientist that enjoy math and programming projects!
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white")
 
 
-## My main fields of knowledge   
+## Comment on coding experience 
   
 **Dashboards, Visulizations & Business Intelligence**: Visulizing results is a very important skillset for any Data Scientist, otherwise any strong result can prove to be meaningless if the audience/client misses the main finding. Here are some of the good techniques I have experience with: 
 - **Streamlit (Python)**: Built dashboards for interacting with GenAI models 
