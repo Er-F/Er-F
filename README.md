@@ -1,5 +1,5 @@
-## Welcome to my GitHub profile! 
-Hobby programmer and Data Scientist that enjoy math and programming projects! 
+# 
+Under are some reposotories I have worked on. 
 
 ## Repositories 
 - Project 00: [Comparing Performance Of Machine Learning Models](https://github.com/Er-F/00_Machine-Learning_Model-Comparison) 
@@ -7,9 +7,6 @@ Hobby programmer and Data Scientist that enjoy math and programming projects!
 - Project 02: [Steamlit Dashboard - Database Storage and Visulization](https://github.com/Er-F/01_Project_GenAI)
 - Project 03: [Analyzing LinkedIn Job Listings - Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
 - Project 04:  [Data Engineering: Building a Simple Data Warehouse using DBT & Medallion Arcitecture](https://github.com/Er-F/04_Project_DBT)
-
-
-
 
 
 ## Comment on coding experience 
