@@ -31,7 +31,8 @@ I am mostly a hobby programmer, that like analysis and testing different models 
 - Experience doing this in several projects 
 - Take a look at the cleaning done in the repo: [Project 03](https://github.com/Er-F/02_Project_Analysis)
 
-**Data Engineering**: I have broad experience with Data Engineering, and I have assisted several companies on improving their data warehouse. This is some of the technology I have used: DBT & SQL, Databricks, Azure. SAS DI/EG. Specific DBT examples will be uploaded in the future!
+**Data Engineering**: 
+- Experience using DBT, DataBricks (and similar dataplattforms), SAS 
   
 <!--- (Un Comment When You have projects to showcase 
 <> ## 🚀 Other Projects
