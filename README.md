@@ -1,5 +1,5 @@
 # Introduction 
-I am mostly a hobby programmer, that like analysis and testing different models and solutions for fun out side of work. 
+Hobby programmer, I like analysis and programming. Mostly for fun out side of work. 
 
 ## Repositories 
 - Project 00: [Comparing Performance Of Machine Learning Models](https://github.com/Er-F/00_Machine-Learning_Model-Comparison) 
