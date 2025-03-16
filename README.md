@@ -17,4 +17,4 @@ Some projects have a more finished look than others, usually because they were a
 - **Text Analysis:** Sentiment and topic modeling on job listings.  
 - **Data Engineering:** Designing data warehouses with DBT and medallion architecture.  
 - **Data Processing & Preparation:** Explore data cleaning techniques in [Project 03](https://github.com/Er-F/02_Project_Analysis).  
-- **Regression & Statistics:** Analyzing Californian housing prices with folium maps, correlation heatmaps, and model evaluations. [here](https://github.com/Er-F/14-Statistics-And-Math/settings).
+- **Regression & Statistics:** Analyzing Californian housing prices with folium maps, correlation heatmaps, and model evaluations. [Project 14](https://github.com/Er-F/14-Statistics-And-Math/settings).
