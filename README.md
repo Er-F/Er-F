@@ -8,7 +8,7 @@
 - **Project 03:** [Analyzing LinkedIn Job Listings – Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
 - **Project 04:** [Data Engineering: Building a Simple Data Warehouse using DBT & Medallion Architecture](https://github.com/Er-F/04_Project_DBT)
 
-Some projects have a more finished look than others, usually because they were abandoned for new pursuits.
+Some projects have a more finished look than others, usually because they were abandoned for new and interesting topics. Feel free to use the code for inspiration! 
 
 ## Project Topics 
 - **Machine Learning:** Model comparison, building from scratch, hyperparameter tuning, and explainability.  
