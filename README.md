@@ -1,5 +1,5 @@
 # Introduction 
-Hobby programmer, I like analysis and programming. Mostly for fun out side of work. 
+**Hobby Programmer. Analytics and Other Topics.**  💻
 
 ## Repositories 
 - Project 00: [Comparing Performance Of Machine Learning Models](https://github.com/Er-F/00_Machine-Learning_Model-Comparison) 
