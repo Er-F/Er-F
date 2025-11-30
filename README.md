@@ -4,8 +4,6 @@ Hobby programmer who enjoys investigating analytical techniques, modelling, and 
 This profile is a mix of experiments, learning projects, and a few more polished tools.
 
 Some projects are more finished than others – many were parked when new ideas came up.  
-Feel free to use any code for inspiration.
-
 ---
 
 ## 🌟 Featured Projects
