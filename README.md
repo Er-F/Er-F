@@ -8,7 +8,7 @@
 - **Project 03:** [Analyzing LinkedIn Job Listings – Topic & Sentiment Calculations](https://github.com/Er-F/02_Project_Analysis)
 - **Project 04:** [Data Engineering: Building a Simple Data Warehouse using DBT & Medallion Architecture](https://github.com/Er-F/04_Project_DBT)
 - **Project 14:** [Investigating Californian Housing Prices with Regression Models](https://github.com/Er-F/14-Statistics-And-Math)
-- **Project 21 :** [Investigating Californian Housing Prices with Regression Models](https://github.com/Er-F/21-Investment-Dashboard)
+- **Project 21 :** [Investment Dashboard, Portfolio Creation and Backtesting](https://github.com/Er-F/21-Investment-Dashboard)
 
 Some projects have a more finished look than others, usually because they were abandoned for new and interesting topics. Feel free to use the code for inspiration!
 
