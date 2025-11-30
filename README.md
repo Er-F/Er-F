@@ -9,7 +9,7 @@
 - **Project 04:** [Data Engineering: Building a Simple Data Warehouse using DBT & Medallion Architecture](https://github.com/Er-F/04_Project_DBT)
 - **Project 14:** [Investigating Californian Housing Prices with Regression Models](https://github.com/Er-F/14-Statistics-And-Math)
 - **Project 21 :** [Investment Dashboard, Portfolio Creation and Backtesting](https://github.com/Er-F/21-Investment-Dashboard)
-- **Project 15 :** [Norwegian Property Price Investigation]((https://github.com/Er-F/15-Norwegian_Property_Analysis))
+- **Project 15 :** [Norwegian Property Price Investigation](https://github.com/Er-F/15-Norwegian_Property_Analysis)
 
 
 
